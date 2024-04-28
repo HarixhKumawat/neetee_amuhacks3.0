@@ -1,0 +1,16 @@
+accelerate
+einops
+faiss-cpu
+htbuilder
+langchain
+langchain-fireworks
+langchain-together
+pytesseract
+pypdf2
+ray
+sentence-transformers
+streamlit
+torch
+torchvision
+transformers
+unstructured
